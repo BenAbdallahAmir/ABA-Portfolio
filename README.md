@@ -7,6 +7,7 @@ ABA Portfolio | Personal Website
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/responsive-design-success?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-0xFF007F?style=flat-square&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"/>
 </p>
 
@@ -37,9 +38,7 @@ ABA Portfolio | Personal Website
 
 📁 ABA-Portfolio<br>
 ├── 📁 css<br>
-├── 📁 images<br>
 ├── 📁 js<br>
-├── 📁 media<br>
 ├── 📁 pdf<br>
 └── 📄 index.html
 
